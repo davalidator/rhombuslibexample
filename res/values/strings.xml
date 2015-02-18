@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RhombusLibExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="dongle_state_label">Dongle State: </string>
+    <string name="message_label">Message: </string>
+    <string name="track_data_label">Track Data: </string>
+
+</resources>
